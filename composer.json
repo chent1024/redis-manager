@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/redis-manager",
+    "name": "chent/la-redis-manager",
     "description": "Redis manager for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "redis", "manager"],
